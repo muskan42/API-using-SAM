@@ -1,0 +1,24 @@
+{
+    "resource": "/hello",
+    "path": "/hello",
+    "httpMethod": "GET",
+    "headers": {
+      "Accept": "*/*",
+      "User-Agent": "PostmanRuntime/7.28.4"
+    },
+    "queryStringParameters": null,
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+      "resourceId": "abc123",
+      "resourcePath": "/hello",
+      "httpMethod": "GET",
+      "requestId": "xyz123",
+      "identity": {
+        "sourceIp": "127.0.0.1"
+      }
+    },
+    "body": null,
+    "isBase64Encoded": false
+  }
+  
