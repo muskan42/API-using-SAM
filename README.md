@@ -1,9 +1,5 @@
-Here's a complete, beginner-friendly `README.md` file you can use for your AWS SAM CLI project (Python or Node.js). This includes **everything from setup to deployment and usage**, written step-by-step.
-
----
-
 ````markdown
-# 🦾 Serverless API with AWS SAM (Python 3.9 / Node.js)
+# Serverless API with AWS SAM (Python 3.9 / Node.js)
 
 This is a simple serverless application that uses **AWS SAM (Serverless Application Model)** to deploy AWS Lambda functions integrated with API Gateway. You can use this to build APIs without managing servers.
 
