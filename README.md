@@ -1,7 +1,7 @@
 ````markdown
 Serverless API with AWS SAM (Python 3.9 / Node.js)
 
-This is a simple serverless application that uses **AWS SAM (Serverless Application Model)** to deploy AWS Lambda functions integrated with API Gateway. You can use this to build APIs without managing servers.
+This is a simple serverless application that uses AWS SAM (Serverless Application Model) to deploy AWS Lambda functions integrated with API Gateway. You can use this to build APIs without managing servers.
 
 ---
 
